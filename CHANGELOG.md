@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 139
-- inventory: maintenance and dependency updates (2026-11-25 17:16)
+## Sprint 140
+- inventory: maintenance and dependency updates (2026-11-26 07:17)
